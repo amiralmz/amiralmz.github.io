@@ -25,7 +25,7 @@ tags: []
 featured: false
 ---
 
-<section style="text-align: center; background: rgb(0, 0, 0);"><video x5-video-player-type="h5-page" controls="controls" preload="auto" controlslist="nodownload noremoteplayback" disablepictureinpicture="" src="https://1500000809.haodf.com/43818081vodtranscq1500000809/cbd0b2751397757894392880150/v.f100030.mp4?t=670106ff&amp;us=qqNAdC5cfB&amp;sign=36affae2a048624f8feb65fd6a6d554d" poster="https://n2.hdfimg.com/g13/M08/D5/64/3IYBAGa0n8SAEY5NAAIDYKYPL3M234_800_800_1.png?6635" class="video-player" style="display: none;"></video> <img src="https://n2.hdfimg.com/g13/M08/D5/64/3IYBAGa0n8SAEY5NAAIDYKYPL3M234_800_800_1.png?6635" alt="封面图" class="video-player" width="610" height="610"></section>
+<section style="text-align: center; background: rgb(0, 0, 0);"><video x5-video-player-type="h5-page" controls="controls" preload="auto" controlslist="nodownload noremoteplayback" disablepictureinpicture="" src="https://1500000809.haodf.com/43818081vodtranscq1500000809/cbd0b2751397757894392880150/v.f100030.mp4?t=670106ff&amp;us=qqNAdC5cfB&amp;sign=36affae2a048624f8feb65fd6a6d554d" poster="https://n2.hdfimg.com/g13/M08/D5/64/3IYBAGa0n8SAEY5NAAIDYKYPL3M234_800_800_1.png?6635" class="video-player" style=""></video> <img src="https://n2.hdfimg.com/g13/M08/D5/64/3IYBAGa0n8SAEY5NAAIDYKYPL3M234_800_800_1.png?6635" alt="封面图" class="video-player" width="610" height="610" style="display: none;"></section>
 
 ## 更多详情
 <iframe src="https://www.haodf.com/neirong/wenzhang/9393724082.html" height=800 width=800></iframe>

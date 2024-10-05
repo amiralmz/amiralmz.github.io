@@ -39,12 +39,28 @@ profiles:
   #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/amiralmz
+    label: GitHub
   # - icon: brands/linkedin
   #   url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=zh-CN&user=lh5QhFwAAAAJ
+    label: Google Scholar
   # - icon: academicons/orcid
   #   url: https://orcid.org/
+  - icon: custom/haodaifu
+    url: https://www.haodf.com/doctor/9032244694.html
+    label: 好大夫在线
+  - icon: custom/zhihu
+    url: https://www.zhihu.com/people/amira-xiao-liu
+    label: 知乎
+  - icon: custom/douyin
+    url: https://www.douyin.com/user/MS4wLjABAAAAmzrG5hp9sH14ynBVvwYse-elsiD-7ssJkIvHQvOCUAb1hK5lRVZmJD0EbQ0msEu3
+  - icon: custom/xiaohongshu
+    url: https://www.xiaohongshu.com/user/profile/61415d0c0000000002025a02
+  - icon: custom/kuaishou
+    url: https://www.kuaishou.com/profile/3xpw9p4n3mf573q
+  - icon: custom/bilibili
+    url: https://space.bilibili.com/11686354
 
 education:
   - area: 应用心理学硕士
@@ -97,15 +113,15 @@ awards:
   - title: 婚姻家庭咨询三级
     awarder: 人力资源与社会保障部
     date: '2012-07-01'
-  - title: 标准化个案心理治疗培训
+  - title: 注册心理师
     awarder: 中国心理卫生协会
     date: '2021-10-25'
 
 ---
 
-## 关于我
+## 个人百科
 
-刘梅珠, 现任北京大学第六医院心理治疗师，专注于为来访者提供专业的心理治疗与心理评估。她毕业于中南大学湘雅二医院临床心理中心，拥有丰富的临床经验，涵盖门诊及病房心理治疗。凭借多年的实践积累，刘梅珠在心理疾病的诊断、评估及干预方面展现出卓越的专业能力，致力于为患者提供科学、有效的心理支持与治疗方案。
+刘梅珠，现任北京大学第六医院心理治疗师，专注于为来访者提供专业的心理评估和心理治疗。她毕业于中南大学湘雅二医院临床心理中心，拥有丰富的临床经验，涵盖门诊及病房心理治疗。凭借多年的实践积累，刘梅珠在心理疾病的诊断、评估及干预方面展现出卓越的专业能力，致力于为患者提供科学、有效的心理支持与治疗方案。
 
 ### 执业资质
 - 心理治疗师中级
