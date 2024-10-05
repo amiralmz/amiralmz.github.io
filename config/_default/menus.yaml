@@ -7,21 +7,21 @@ main:
   - name: 个人主页
     url: /
     weight: 10
-  - name: 研究成果
-    url: /#papers
-    weight: 11
   - name: 公开演讲
     url: /#talks
+    weight: 11
+  - name: 研究成果
+    url: /#papers
     weight: 12
-  - name: 最近要闻
-    url: /#news
-    weight: 13
   - name: 个人履历
     url: experience/
     weight: 20
-  - name: 项目经历
-    url: projects/
-    weight: 30
-  - name: 教学活动
-    url: teaching/
-    weight: 40
+  # - name: 最近要闻
+  #   url: /#news
+  #   weight: 13
+  # - name: 项目经历
+  #   url: projects/
+  #   weight: 30
+  # - name: 教学活动
+  #   url: teaching/
+  #   weight: 40
