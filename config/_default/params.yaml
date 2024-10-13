@@ -12,19 +12,19 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
+    local_business_type: 'Mental Health'
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: '刘梅珠，现任北京大学第六医院心理咨询师和心理治疗师，擅长儿童与青少年家庭养育，专注于为来访者提供专业的心理评估和心理治疗。她毕业于中南大学湘雅二医院临床心理中心，拥有丰富的临床经验，涵盖门诊及病房心理治疗。凭借多年的实践积累，刘梅珠在心理疾病的诊断、评估及干预方面展现出卓越的专业能力，致力于为患者提供科学、有效的心理支持与治疗方案。'
+    # twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-3Y91YS3NK0'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
     pirsch: ''
   verification:
     google: ''
-    baidu: ''
+    baidu: 'codeva-Iz1gtdz49M'
 
 # Site header
 header:
